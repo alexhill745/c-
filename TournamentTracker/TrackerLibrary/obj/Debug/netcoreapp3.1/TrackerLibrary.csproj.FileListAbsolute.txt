@@ -1,0 +1,9 @@
+G:\cs\TournamentTracker\TrackerLibrary\bin\Debug\netcoreapp3.1\TrackerLibrary.deps.json
+G:\cs\TournamentTracker\TrackerLibrary\bin\Debug\netcoreapp3.1\TrackerLibrary.dll
+G:\cs\TournamentTracker\TrackerLibrary\bin\Debug\netcoreapp3.1\TrackerLibrary.pdb
+G:\cs\TournamentTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.csprojAssemblyReference.cache
+G:\cs\TournamentTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.AssemblyInfoInputs.cache
+G:\cs\TournamentTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.AssemblyInfo.cs
+G:\cs\TournamentTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.csproj.CoreCompileInputs.cache
+G:\cs\TournamentTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.dll
+G:\cs\TournamentTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.pdb
